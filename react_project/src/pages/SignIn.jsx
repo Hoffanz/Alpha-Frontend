@@ -12,4 +12,5 @@ const SignIn = () => {
   );
 };
 
+/*Hade kvar dessa (Clients.jsx, Members.jsx) ifall jag skulle ge mig på VG, men insåg rätt snabbt att det var lite(mycket) för svårt för mig*/
 export default SignIn;

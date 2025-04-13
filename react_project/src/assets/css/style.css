@@ -771,6 +771,9 @@ section > .content {
 }
 
 /* Modal-container */
+/*Värt att notera att jag är medveten om att det blir en scorllfunktion ifall man har "standard in-zoomning" på skärmen*/
+/*Men var tvungen att zooma ut till 80% för att scrollfunktionen skulle försvinna, satt MÅNGA timmar med att försöka åtgärda det*/
+/*Men gav till sist upp. Fördelen med en synlig scroll är väl att det kanske hjälper mindre skärmar he he*/
 .edit-modal {
   position: relative;
   width: 90%;

@@ -24,3 +24,5 @@ export const apiFetch = async (endpoint, options = {}) => {
 
   return res.json();
 };
+
+/*I denna fil samt i .env ligger uppsäkringen med den krypterade nyckeln ifrån backenddelen, tog ett id från guid och encodade det med base 64*/

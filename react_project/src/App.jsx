@@ -17,7 +17,7 @@ root.render(
     </BrowserRouter>
   </StrictMode>
 );
-
+/*Mycket av react är byggt med hjälp av AI, då jag inte har någon tidigare erfarenhet av React komponenter. I Frontend 2 så var React ett VG krav och inte ett G krav.*/
 function App() {
   const routing = useRoutes(routesConfig);
 
